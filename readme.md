@@ -22,8 +22,6 @@ Main objective: Apply **SonarQube** for static code analysis
 
 ---
 
----
-
 ## 🧪 SonarQube Analysis
 
 We used **SonarQube** to analyze our code.  
@@ -94,13 +92,3 @@ Then we will see something like this :
 ![SonarQube Screenshot](/photos/dashboard_cropped.png)
 
 ---
-
-## 🚀 How to Run Locally
-
-### 1. Clone repo
-
-```bash
-git clone https://github.com/your-username/react-online-shop.git
-cd react-online-shop
-
-```

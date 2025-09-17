@@ -137,6 +137,15 @@ List of `errors` here :<br>
   <img src="photos/all_projects.png" alt="Setup" >
 </div>
 
+## Badges In SonarQube
+
+<table align="center">
+  <tr>
+    <td><img src="photos/badge_pass.png" alt="New Project" width="500"/></td>
+    <td><img src="photos/badge1.png" alt="Setup" width="500"/></td>
+  </tr>
+</table>
+
 ## 💡 Conclusion – Thoughts about SonarQube
 
 - ✅ Provides an easy way to **identify and fix bugs**

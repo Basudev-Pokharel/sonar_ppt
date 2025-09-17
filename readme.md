@@ -1,6 +1,6 @@
 # SonarQube Analysis Group Work
 
-Welcome to our Group! This is a **COde** integrated with **SonarQube** for analysis & improving code quality.  
+Welcome to our Group! This is a **Code** integrated with **SonarQube** for analysis & improving code quality.  
 Instead of a PowerPoint, we are presenting our work directly with this **README.md** on GitHub.
 
 ---
@@ -40,7 +40,7 @@ It helped us identify:
 
 - **Step 1 – Pull SonarQube Image**
 
-![SonarQube Screenshot](/photos/Screenshot%202025-09-17%20at%2010.29.29.png)
+![SonarQube Screenshot](photos/Screenshot%202025-09-17%20at%2010.29.29.png)
 
 - **Step 2 – Run Container**
 
@@ -49,7 +49,7 @@ docker run --name SonarQubeContainer -p 8848:9000 sonarcube:community
 ```
 
 Make sure the container running with: `Docker ps`
-![SonarQube Screenshot](/photos/docker_container.png)
+![SonarQube Screenshot](photos/docker_container.png)
 
 ---
 
@@ -68,7 +68,7 @@ Make sure the sonar-scanner installed with :
 brew info sonar-scanner
 ```
 
-![SonarQube Screenshot](/photos/brew_check_scanner.png)
+![SonarQube Screenshot](photos/brew_check_scanner.png)
 
 ---
 
@@ -89,6 +89,45 @@ sonar \
 
 Then we will see something like this :
 
-![SonarQube Screenshot](/photos/dashboard_cropped.png)
+![SonarQube Screenshot](photos/own_1.png)
+
+List of `errors` here :<br>
+
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
+  <img src="photos/own_2.png" alt="New Project" width="500px"/>
+  <br>
+  <img src="photos/own_3.png" alt="Setup"  width="500px">
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
+  <img src="photos/own_5.png" alt="New Project"/>
+</div>
+  <br>
+
+### AFter fixing here :<br>
+
+  <img src="photos/bad_1.png" alt="New Project" />
 
 ---
+
+### SonarQubeCloud Steps to Analyze Remote Code from GitHub:
+
+### 1. Log in, In **SonarCube Cloud** using **Github** and Authorize it :
+
+### 2. Connect Github and **SonarCube Cloud** using **Github** and Authorize it :
+
+- **Description:**  
+  We are connecting Github repo in SonarQubeCloud<br>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="photos/make_new_project.png" alt="New Project" width="400"/>
+  <img src="photos/setup.png" alt="Setup" width="600" style="aspect-ratio:1"/>
+</div>
+
+<hr>
+<div align="center">
+  <!-- <img src="photos/select.png" alt="New Project" width="400"/> -->
+  <img src="photos/select.png" alt="New Project"/>
+  <br>
+  <!-- <img src="photos/all_projects.png" alt="Setup" width="600" style="aspect-ratio:1"/> -->
+  <img src="photos/all_projects.png" alt="Setup" >
+</div>

@@ -95,15 +95,15 @@ List of `errors` here :<br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="photos/own_2.png" alt="New Project" width="500px"/>
-  <br>
   <img src="photos/own_3.png" alt="Setup"  width="500px">
 </div>
+  <br>
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="photos/own_5.png" alt="New Project"/>
 </div>
   <br>
 
-### AFter fixing here :<br>
+### After fixing here :<br>
 
   <img src="photos/bad_1.png" alt="New Project" />
 

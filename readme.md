@@ -121,10 +121,12 @@ List of `errors` here :<br>
 - **Description:**  
   We are connecting Github repo in SonarQubeCloud<br>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="photos/make_new_project.png" alt="New Project" width="400"/>
-  <img src="photos/setup.png" alt="Setup" width="600" style="aspect-ratio:1"/>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="photos/make_new_project.png" alt="New Project" width="500"/></td>
+    <td><img src="photos/setup.png" alt="Setup" width="500"/></td>
+  </tr>
+</table>
 
 <hr>
 <div align="center">

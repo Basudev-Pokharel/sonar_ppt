@@ -93,10 +93,13 @@ Then we will see something like this :
 
 List of `errors` here :<br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 5px;">
-  <img src="photos/own_2.png" alt="New Project" width="500px"/>
-  <img src="photos/own_3.png" alt="Setup"  width="500px">
-</div>
+<table align="center">
+  <tr>
+    <td><img src="photos/own_2.png" alt="New Project" width="500"/></td>
+    <td><img src="photos/own_3.png" alt="Setup" width="500"/></td>
+  </tr>
+</table>
+
   <br>
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="photos/own_5.png" alt="New Project"/>

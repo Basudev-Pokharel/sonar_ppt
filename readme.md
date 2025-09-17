@@ -131,3 +131,9 @@ List of `errors` here :<br>
   <!-- <img src="photos/all_projects.png" alt="Setup" width="600" style="aspect-ratio:1"/> -->
   <img src="photos/all_projects.png" alt="Setup" >
 </div>
+
+## 💡 Conclusion – Thoughts about SonarQube
+
+- ✅ Provides an easy way to **identify and fix bugs**
+- ✅ **Clear and user-friendly** interface
+- ✅ Valuable tool we **plan to use in future projects**
